@@ -45,3 +45,4 @@ bin/rails generate migration create_lesson_topics
 12. If the migration run was successful, create the model for your join table (be sure the name matches Rails conventions).
 
 13. Open the console and test your new models by creating the topics above and adding them to some lessons.
+
